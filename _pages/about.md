@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "HomePage"
-excerpt: "About me"
+excerpt: "HomePage of Rich Xu"
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,7 +18,7 @@ Being mentored by [Professor Yan Yang](https://faculty.swjtu.edu.cn/yangyan1/zh_
 
 Please contact me via email at *richxu945@gmail.com*
 
-[Google Scholar]() / [Github](https://github.com/Rich-XGK) / [OpenReview](https://openreview.net/profile?id=~Guikun_Xu1) / [Twitter ]()
+[Google Scholar]() / [Github](https://github.com/Rich-XGK) / [OpenReview](https://openreview.net/profile?id=~Guikun_Xu1) / [Twitter]()
 
 ## Research Topics
 I am primarily engaged in the exploration of **AI for Science**, with a particular concentration on **Molecular Machine Learning**. In addition to this, I possess a substantial interest in the study and application of **Deep Generative Algorithms**.
