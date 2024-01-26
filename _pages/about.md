@@ -7,10 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<!-- 我是一个硕士研究生，就读于[西南交通大学计算机与人工智能学院](https://scai.swjtu.edu.cn/index.html)，我的导师是[杨燕](https://faculty.swjtu.edu.cn/yangyan1/zh_CN/index.htm)和[江永全](https://faculty.swjtu.edu.cn/jiangyongquan/zh_CN/index.htm)。 -->
-
-<!-- 我的主要研究方向是Ai for Science，分子机器学习，并且对生成模型有着浓厚的兴趣。 -->
+---
+---
 
 ## About me
 
