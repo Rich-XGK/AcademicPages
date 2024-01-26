@@ -13,7 +13,7 @@ redirect_from:
 <!-- 我的主要研究方向是Ai for Science，分子机器学习，并且对生成模型有着浓厚的兴趣。 -->
 
 
-I am currently pursuing my Master's degree at the [School of Computer and Artificial Intelligence, Southwest Jiaotong University(swjtu)](https://scai.swjtu.edu.cn/index.html). I have the privilege of being mentored by [Professor Yan Yang](https://faculty.swjtu.edu.cn/yangyan1/zh_CN/index.htm) and [Yongquan Jiang](https://faculty.swjtu.edu.cn/jiangyongquan/zh_CN/index.htm).
+Being mentored by [Professor Yan Yang](https://faculty.swjtu.edu.cn/yangyan1/zh_CN/index.htm) and [Yongquan Jiang](https://faculty.swjtu.edu.cn/jiangyongquan/zh_CN/index.htm), I am currently pursuing my Master's degree at the [School of Computer and Artificial Intelligence](https://scai.swjtu.edu.cn/index.html), [Southwest Jiaotong University (swjtu)](https://www.swjtu.edu.cn/). Prior to this, I earned my Bachelor of Science degree from the [School of Science](https://www.swpu.edu.cn/lxy/) at [Southwest Petroleum University](https://www.swpu.edu.cn/), majoring in "Electronic Information Science and Technology".
 
 
 I am primarily engaged in the exploration of *AI for Science*, with a particular concentration on *Molecular Machine Learning*. In addition to this, I possess a substantial interest in the study and application of *Deep Generative Algorithms*.
