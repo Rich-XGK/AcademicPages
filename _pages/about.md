@@ -25,10 +25,7 @@ I am primarily engaged in the exploration of **AI for Science**, with a particul
 
 # Publications (* equal contribution)
 
-[GTMGC: Using Graph Transformer to Predict Molecule’s Ground-State Conformation (camera-ready soon)]()
-
-**Guikun Xu**, Yongquan Jiang, Pengchuan Lei, Yan Yang, Jim Chen
-
-International Conference on Learning Representations (ICLR), 2024.
-
+[GTMGC: Using Graph Transformer to Predict Molecule’s Ground-State Conformation (camera-ready soon)]()  
+**Guikun Xu**, Yongquan Jiang, Pengchuan Lei, Yan Yang, Jim Chen  
+International Conference on Learning Representations (ICLR), 2024.  
 <span style="color:red">Spotlight Presentation[5% of 7262 submissions]</span>
