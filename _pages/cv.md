@@ -11,12 +11,6 @@ redirect_from:
 
 
 
-<embed src="{{ site.baseurl }}/files/resume.pdf" width="600" height="700" type='application/pdf'> 
-
-
-
-
-<!-- 
 ---
 ---
 
@@ -24,7 +18,7 @@ redirect_from:
 
 * B.S. in Electronic Information Science and Technology, Southwest Petroleum University, Chengdu, China, 2022
 * M.S. in Computer Science and Technology, Southwest Jiaotong University, Chengdu, China, 2025 (Expected)
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 <!-- Work experience -->
 <!-- ====== -->
@@ -72,4 +66,4 @@ Teaching
   
 <!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams --> -->
+* Currently signed in to 43 different slack teams -->
