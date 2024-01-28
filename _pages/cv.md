@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * B.S. in Electronic Information Science and Technology, Southwest Petroleum University, Chengdu, China, 2022
 * M.S. in Computer Science and Technology, Southwest Jiaotong University, Chengdu, China, 2025 (Expected)
@@ -27,7 +27,7 @@ Education
   <!-- * Duties included: Merging pull requests -->
   <!-- * Supervisor: Professor Hub -->
   
-Skills
+## Skills
 ======
 * Python 
 * C++
@@ -36,12 +36,12 @@ Skills
   * PaddlePaddle
   * TensorFlow
   
-Awards
+## Awards
 ======
 -2022.10: Second-class Academic Scholarship for Master's Students  
 -2022.10: Second-class Academic Scholarship for Master's Students
 
-Publications
+## Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
