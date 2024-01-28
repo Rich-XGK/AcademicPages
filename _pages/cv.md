@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+<embed src="{{ site.baseurl }}/files/resume.pdf" width="600" height="700" type='application/pdf'> 
+
+
+
+
+<!-- 
 ---
 ---
 
@@ -64,4 +72,4 @@ Teaching
   
 <!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Currently signed in to 43 different slack teams --> -->
