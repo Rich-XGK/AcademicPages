@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+<embed src="https://rich-xu.github.io/files/resume.pdf" type="application/pdf" width="600px" height="500px" />
 
 ---
 ---
