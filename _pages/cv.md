@@ -9,8 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+---
+---
+
 ## Education
-======
+
 * B.S. in Electronic Information Science and Technology, Southwest Petroleum University, Chengdu, China, 2022
 * M.S. in Computer Science and Technology, Southwest Jiaotong University, Chengdu, China, 2025 (Expected)
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
@@ -28,7 +31,7 @@ redirect_from:
   <!-- * Supervisor: Professor Hub -->
   
 ## Skills
-======
+
 * Python 
 * C++
 * Deep Learning Frameworks
@@ -37,12 +40,12 @@ redirect_from:
   * TensorFlow
   
 ## Awards
-======
+
 -2022.10: Second-class Academic Scholarship for Master's Students  
 -2022.10: Second-class Academic Scholarship for Master's Students
 
 ## Publications
-======
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
