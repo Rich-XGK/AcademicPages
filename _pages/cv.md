@@ -42,7 +42,7 @@ redirect_from:
 ## Awards
 
 -2022.10: Second-class Academic Scholarship for Master's Students  
--2022.10: Second-class Academic Scholarship for Master's Students
+-2023.10: Second-class Academic Scholarship for Master's Students
 
 ## Publications
 
